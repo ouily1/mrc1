@@ -1,0 +1,4 @@
+[submodule "mrc-backend"]
+	url = https://github.com/LaFabulerie/mrc-backend.git
+[submodule "mrc-frontend"]
+	url = https://github.com/LaFabulerie/mrc-frontend.git
